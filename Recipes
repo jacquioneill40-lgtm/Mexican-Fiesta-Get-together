@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mexican Fiesta - Recipes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>📜 Printable Recipes</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="recipes.html">Recipes</a>
+    </nav>
+</header>
+<main>
+    <section>
+        <h2>Guacamole</h2>
+        <p>Mash ripe avocados with lime juice, salt, chopped onion, tomato, and coriander. Serve fresh!</p>
+    </section>
+    <section>
+        <h2>Chicken Tacos</h2>
+        <p>Grill seasoned chicken strips, add to tortillas with salsa, cheese, and lettuce.</p>
+    </section>
+    <section>
+        <h2>Churros</h2>
+        <p>Fry dough sticks, roll in cinnamon sugar, serve with melted chocolate sauce.</p>
+    </section>
+</main>
+<footer>
+    <p>© 2025 Mexican Fiesta Get-Together</p>
+</footer>
+</body>
+</html>
