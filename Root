@@ -1,0 +1,149 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gallery - Fiesta Mexicana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header><h1>Gallery</h1></header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="menu.html">Menu</a>
+        <a href="recipes.html">Recipes</a>
+        <a href="gallery.html">Gallery</a>
+    </nav>
+    <main>
+        <p>Photos from the night will be added here!</p>
+        <img src="images/mexican_food.jpg" alt="Mexican Food Sample" width="300">
+    </main>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>¡Fiesta Mexicana! Family Dinner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>¡Fiesta Mexicana! Family Dinner</h1>
+        <p>20 August 2025 | 6:00 PM | Dress Code: Bright & Festive</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="menu.html">Menu</a>
+        <a href="recipes.html">Recipes</a>
+        <a href="gallery.html">Gallery</a>
+    </nav>
+    <main>
+        <h2>Welcome to our family Mexican night!</h2>
+        <p>Enjoy an evening full of authentic flavours, traditional dishes, and fun-filled fiesta vibes!</p>
+    </main>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Menu - Fiesta Mexicana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header><h1>Our Themed Menu</h1></header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="menu.html">Menu</a>
+        <a href="recipes.html">Recipes</a>
+        <a href="gallery.html">Gallery</a>
+    </nav>
+    <main>
+        <h2>Starters</h2>
+        <ul>
+            <li>Guacamole & Tortilla Chips</li>
+            <li>Mexican Street Corn (Elote)</li>
+            <li>Mini Chicken Quesadillas</li>
+        </ul>
+        <h2>Main Courses</h2>
+        <ul>
+            <li>Build-Your-Own Tacos</li>
+            <li>Chicken Enchiladas Verde</li>
+            <li>Burrito Bowls</li>
+            <li>Spicy Rice & Refried Beans</li>
+        </ul>
+        <h2>Drinks</h2>
+        <ul>
+            <li>Margaritas (Lime, Mango)</li>
+            <li>Horchata</li>
+            <li>Agua Fresca</li>
+        </ul>
+        <h2>Desserts</h2>
+        <ul>
+            <li>Churros with Chocolate</li>
+            <li>Tres Leches Cake</li>
+            <li>Mexican Hot Chocolate</li>
+        </ul>
+    </main>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recipes - Fiesta Mexicana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header><h1>Recipes</h1></header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="menu.html">Menu</a>
+        <a href="recipes.html">Recipes</a>
+        <a href="gallery.html">Gallery</a>
+    </nav>
+    <main>
+        <h2>Guacamole</h2>
+        <p>Avocados, lime, red onion, tomato, coriander, salt.</p>
+        <h2>Chicken Enchiladas Verde</h2>
+        <p>Chicken, corn tortillas, green enchilada sauce, cheese, onion.</p>
+        <h2>Churros</h2>
+        <p>Flour, sugar, cinnamon, butter, eggs, chocolate sauce.</p>
+    </main>
+</body>
+</html>
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fff3e0;
+    color: #4e342e;
+    margin: 0;
+    padding: 0;
+}
+header, nav {
+    background-color: #ff7043;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+main {
+    padding: 20px;
+}
+img {
+    margin: 10px;
+    border: 3px solid #ff7043;
+}
