@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>¡Fiesta Mexicana! Family Dinner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>¡Fiesta Mexicana! Family Dinner</h1>
+        <p>20 August 2025 | 6:00 PM | Dress Code: Bright & Festive</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="menu.html">Menu</a>
+        <a href="recipes.html">Recipes</a>
+        <a href="gallery.html">Gallery</a>
+    </nav>
+    <main>
+        <h2>Welcome to our family Mexican night!</h2>
+        <p>Enjoy an evening full of authentic flavours, traditional dishes, and fun-filled fiesta vibes!</p>
+    </main>
+</body>
+</html>
