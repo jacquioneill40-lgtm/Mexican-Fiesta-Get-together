@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mexican Fiesta - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>🌮 Mexican Fiesta Get-Together 🎉</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="recipes.html">Recipes</a>
+    </nav>
+</header>
+<main>
+    <section>
+        <h2>Welcome to our Mexican Fiesta!</h2>
+        <p>Join us for a colourful night of food, fun, and fiesta vibes!<br>
+        📅 Date: 20 August 2025</p>
+    </section>
+    <section>
+        <h2>Menu Highlights</h2>
+        <ul>
+            <li>Chicken Tacos</li>
+            <li>Fresh Guacamole</li>
+            <li>Churros with Chocolate Sauce</li>
+            <li>Refreshing Margaritas</li>
+        </ul>
+    </section>
+</main>
+<footer>
+    <p>© 2025 Mexican Fiesta Get-Together</p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
