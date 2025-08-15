@@ -1,1 +1,28 @@
 
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fff3e0;
+    color: #4e342e;
+    margin: 0;
+    padding: 0;
+}
+header, nav {
+    background-color: #ff7043;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+main {
+    padding: 20px;
+}
+img {
+    margin: 10px;
+    border: 3px solid #ff7043;
+}
